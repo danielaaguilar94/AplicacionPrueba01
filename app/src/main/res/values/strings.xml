@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AplicacionPrueba01</string>
+    <string name="boton_guardar">GUARDAR</string>
+    <string name="boton_cargar">CARGAR</string>
+</resources>
